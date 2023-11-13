@@ -23,8 +23,8 @@ def banner():
 |  $$$$$$/| $$ \/  | $$|  $$$$$$/      | $$$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$/| $$$$$$$$| $$  | $$
  \______/ |__/     |__/ \______/       |_______/  \______/ |__/     |__/|_______/ |________/|__/  |__/
                                                                                                                                                                                                     
-                                   By : D3XBugg3R  
-                                With <3 of T34M GCA                                                                                                  
+                                   By : ky 
+                                TEAM LK MERKERS                                                                                                 
     Note : I won't be responsible for any damage caused by this script, Use at your own risk
 """)
 #http://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile=
